@@ -5,7 +5,7 @@ import Projects from './components/Projects';
 
 
 function App() {
-  const [currentPage, setCurrentPage] = useState("About");
+  const [currentPage, setCurrentPage] = useState("about");
   
   const renderPage = () => {
     if (currentPage === 'About') {
