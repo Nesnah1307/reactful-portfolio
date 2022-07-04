@@ -23,6 +23,11 @@ function Projects() {
                 <a className="github" href="https://github.com/Nesnah1307/ghost-pepper-ranch"></a>
                 <a className="deployed" href="https://shrouded-garden-23181.herokuapp.com/">Budget Tracker</a>
             </div>
+
+            <div className="spoiled">
+                <a className="github" href="https://github.com/Nesnah1307/spoiled-milk"></a>
+                <a className="deployed" href="https://dry-inlet-29870.herokuapp.com/">Spoiled Milk</a>
+            </div>
         </section>
     )
 
